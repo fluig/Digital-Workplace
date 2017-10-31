@@ -1,0 +1,15 @@
+application.type=widget
+application.code=graphic_Doughnut
+application.title=Grafiphic Doughnut
+application.description=Grafiphic Doughnut
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=SPON010113294
+developer.name=Rodrigo Becker
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=True
+view.file=view.ftl
+edit.file=edit.ftl
+application.resource.component.1=fluigchart
+application.resource.js.1=/resources/js/graphic_Doughnut.js
